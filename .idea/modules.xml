@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidModulePattern.iml" filepath="$PROJECT_DIR$/AndroidModulePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs_module/bbs_module.iml" filepath="$PROJECT_DIR$/bbs_module/bbs_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common_library/common_library.iml" filepath="$PROJECT_DIR$/common_library/common_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/find_module/find_module.iml" filepath="$PROJECT_DIR$/find_module/find_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home_module/home_module.iml" filepath="$PROJECT_DIR$/home_module/home_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/profile_module/profile_module.iml" filepath="$PROJECT_DIR$/profile_module/profile_module.iml" />
+    </modules>
+  </component>
+</project>
